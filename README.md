@@ -4,7 +4,7 @@ Concepts involved are : `Consonants`, `Vowels`, `Custom Functions in Python`, `L
 1.You need to start traversing from index k till end of string and then you can traverse back from end to beginning.\
 2.At index k you need to check if the character is vowel or consonant.\
 3.If it vowel you need to convert it into any consonant and vice versa and according you need to convert entire string into one kind of characters i.e vowels or consonants.\
-4.Now the cost of moving from one index to next index is 1 coin and cost of converting a character into another character is also 1 coin.\
+4.Now the cost of moving from one index to next index is 1 coin and cost of converting a character into another character is also 1 coin.
 5.Output should be total cost to get desired output string.
 
 ### Sample Input Information
