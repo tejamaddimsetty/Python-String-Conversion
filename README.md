@@ -16,5 +16,5 @@ Sample Input: `aeioaaeiou`.
 
 
 #### Warning!
-I picked another Input `VIJAYAWADA`. But process never stops because this string has Consonant, Vowel and so on. So the program runs life time may be breaks at a point 2^n with an error.\
-So if you want to look out possible output please enter the Random input String.
+I picked another Input `VIJAYAWADA`. But process never stops because this string has Consonant, Vowel and so on. Now the program runs life time or may be breaks at a point `2^n` with an error.\
+So if you want to look out possible output please enter the Sample Input Information.
