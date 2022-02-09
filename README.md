@@ -1,7 +1,6 @@
 # Python-String-Manipulation-Example
 Concepts involved are : `Consonants`, `Vowels`, `Custom Functions in Python`, `Lists in Python`
 ## Problem Statement:
-***
 Write a Python program to traverse a string to an consonant or an ovel by following the below instructions.
 * You need to start traversing from index k till end of string and then you can traverse back from end to beginning.
 * At index k you need to check if the character is vowel or consonant.
