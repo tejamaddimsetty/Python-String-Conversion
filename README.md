@@ -10,7 +10,7 @@ Write a Python program to traverse a string to an consonant or an ovel by follow
 * Output should be total cost to get desired output string.
 
 ### Sample Input Information
-Sample Input: `aeioaaeiou`.\
+Sample Input: `aeioaaeiou`.
 
 ![image](https://user-images.githubusercontent.com/35171449/153184206-8768e80d-f350-4295-8780-8bec3a4c0c22.png)
 
